@@ -1,4 +1,5 @@
 # Netflix-Movies-TV-Shows-Dashboard
+![Dashboard Preview](https://github.com/anasanwar19/Netflix-Movies-TV-Shows-Dashboard/blob/main/Netflix%20Moveis%20and%20TV%20Shows%20Dashboard.png)
 Interactive Netflix Movies &amp; TV Shows Dashboard built using Power BI. Analyzes 8,800+ Netflix titles with insights on content type, genres, ratings, release trends, countries, and distribution through dynamic visualizations.
 
 ##  Dashboard Features
